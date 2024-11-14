@@ -1,0 +1,58 @@
+.home {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .hero {
+    background-color: #f8f9fa;
+    padding: 50px;
+    border-radius: 10px;
+  }
+  
+  .hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .hero button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hero button:hover {
+    background-color: #0056b3;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    
+  }
+  
+  .feature {
+    width: 30%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .feature h3 {
+    margin-bottom: 15px;
+  }
+  
+  .feature p {
+    font-size: 1.1em;
+  }
+  

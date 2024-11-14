@@ -1,0 +1,39 @@
+.customer-management {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:  #9d9b9b6d ;
+  }
+  .inventory-management-wrapper {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+  .add-customer {
+    margin-bottom: 20px;
+  }
+  
+  .add-customer input {
+    margin-right: 10px;
+  }
+  
+  .customer-list {
+    margin-top: 20px;
+  }
+  
+  .customer-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .customer-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
